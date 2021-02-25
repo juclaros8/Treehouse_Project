@@ -1,2 +1,2 @@
-# Treehouse_Project
- Treehouse Project, re-sumbit
+# Treehouse Project
+ My first TechDegree Project
